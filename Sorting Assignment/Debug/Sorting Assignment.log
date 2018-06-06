@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\rico's msi\documents\visual studio 2015\projects\sorting assignment\source.cpp(95): warning C4101: 'test': unreferenced local variable
+c:\users\rico's msi\documents\visual studio 2015\projects\sorting assignment\source.cpp(128): warning C4101: 'selection': unreferenced local variable
+  Sorting Assignment.vcxproj -> C:\Users\Rico's MSI\documents\visual studio 2015\Projects\Sorting Assignment\Debug\Sorting Assignment.exe
+  Sorting Assignment.vcxproj -> C:\Users\Rico's MSI\documents\visual studio 2015\Projects\Sorting Assignment\Debug\Sorting Assignment.pdb (Full PDB)
