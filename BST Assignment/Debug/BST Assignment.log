@@ -1,0 +1,7 @@
+﻿  BSTtk2.cpp
+c:\users\rico's msi\documents\visual studio 2015\projects\bst assignment\tree.h(99): warning C4101: 'x': unreferenced local variable
+  c:\users\rico's msi\documents\visual studio 2015\projects\bst assignment\tree.h(88): note: while compiling class template member function 'void Tree<int>::display(Tree<int>::Node *)'
+  c:\users\rico's msi\documents\visual studio 2015\projects\bst assignment\tree.h(173): note: see reference to function template instantiation 'void Tree<int>::display(Tree<int>::Node *)' being compiled
+  c:\users\rico's msi\documents\visual studio 2015\projects\bst assignment\bsttk2.cpp(29): note: see reference to class template instantiation 'Tree<int>' being compiled
+  BST Assignment.vcxproj -> C:\Users\Rico's MSI\documents\visual studio 2015\Projects\BST Assignment\Debug\BST Assignment.exe
+  BST Assignment.vcxproj -> C:\Users\Rico's MSI\documents\visual studio 2015\Projects\BST Assignment\Debug\BST Assignment.pdb (Full PDB)
